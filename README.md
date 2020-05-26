@@ -3,9 +3,9 @@ A response model can provide a significant boost to the efficiency of a marketin
 
 This is a test made for an data analyst position at iFood. 
 
-There is and Exploratory analysis, an RFM anaysis and a Classification model. 
+There is an Exploratory analysis, RFM anaysis and a Classification model. 
 
-It'my first ML model, so I know I have a lot of opportunitites to improve it. In the future I'll be redoing the work. 
+It'my first ML model, so I know I have a lot of opportunitites to improve it. In the future I'll be redoing this work. 
 
 The job structure:
  - EDA - Exploratory Data Analysis 
